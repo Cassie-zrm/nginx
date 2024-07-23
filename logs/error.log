@@ -1,0 +1,91 @@
+2024/07/23 15:02:19 [emerg] 13676#7332: unknown directive "sss" in C:\code\zs\nginx/conf/nginx.conf:12
+2024/07/23 15:10:30 [error] 11148#7896: *1 CreateFile() "C:\code\zs\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/07/23 15:38:05 [notice] 16756#25276: signal process started
+2024/07/23 15:41:22 [notice] 13148#18388: signal process started
+2024/07/23 15:41:34 [notice] 26280#1752: signal process started
+2024/07/23 15:41:49 [notice] 15800#9020: signal process started
+2024/07/23 15:44:21 [error] 11148#7896: *31 CreateFile() "C:\code\zs\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/07/23 15:44:38 [notice] 18804#18236: signal process started
+2024/07/23 15:44:45 [error] 11148#7896: *34 CreateFile() "C:\code\zs\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/07/23 15:44:45 [error] 11148#7896: *34 CreateFile() "C:\code\zs\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/07/23 15:44:46 [error] 11148#7896: *34 CreateFile() "C:\code\zs\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/07/23 15:44:46 [error] 11148#7896: *34 CreateFile() "C:\code\zs\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/07/23 15:44:52 [error] 11148#7896: *36 CreateFile() "C:\code\zs\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/07/23 15:44:52 [error] 11148#7896: *36 CreateFile() "C:\code\zs\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/07/23 15:46:40 [error] 11148#7896: *38 CreateFile() "C:\code\zs\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/07/23 15:47:14 [notice] 15352#23312: signal process started
+2024/07/23 15:47:22 [error] 11148#7896: *41 CreateFile() "C:\code\zs\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/07/23 15:47:23 [error] 11148#7896: *41 CreateFile() "C:\code\zs\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/07/23 15:47:24 [error] 11148#7896: *41 CreateFile() "C:\code\zs\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/07/23 15:47:24 [error] 11148#7896: *41 CreateFile() "C:\code\zs\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/07/23 15:47:24 [error] 11148#7896: *41 CreateFile() "C:\code\zs\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/07/23 15:47:24 [error] 11148#7896: *41 CreateFile() "C:\code\zs\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/07/23 15:47:24 [error] 11148#7896: *41 CreateFile() "C:\code\zs\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/07/23 15:47:25 [error] 11148#7896: *41 CreateFile() "C:\code\zs\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/07/23 15:47:25 [error] 11148#7896: *41 CreateFile() "C:\code\zs\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/07/23 15:47:25 [error] 11148#7896: *41 CreateFile() "C:\code\zs\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/07/23 15:47:25 [error] 11148#7896: *41 CreateFile() "C:\code\zs\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/07/23 15:47:38 [notice] 14752#25536: signal process started
+2024/07/23 15:47:42 [error] 11148#7896: *44 CreateFile() "C:\code\zs\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/07/23 15:47:42 [error] 11148#7896: *44 CreateFile() "C:\code\zs\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/07/23 15:47:42 [error] 11148#7896: *44 CreateFile() "C:\code\zs\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/07/23 15:47:42 [error] 11148#7896: *44 CreateFile() "C:\code\zs\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/07/23 15:47:43 [error] 11148#7896: *44 CreateFile() "C:\code\zs\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/07/23 15:48:25 [notice] 14692#11024: signal process started
+2024/07/23 15:48:28 [error] 11148#7896: *47 CreateFile() "C:\code\zs\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/07/23 15:48:29 [error] 11148#7896: *47 CreateFile() "C:\code\zs\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/07/23 15:48:29 [error] 11148#7896: *47 CreateFile() "C:\code\zs\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/07/23 15:48:29 [error] 11148#7896: *47 CreateFile() "C:\code\zs\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/07/23 15:48:29 [error] 11148#7896: *47 CreateFile() "C:\code\zs\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/07/23 15:48:30 [error] 11148#7896: *50 CreateFile() "C:\code\zs\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/07/23 15:48:43 [error] 11148#7896: *53 CreateFile() "C:\code\zs\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/07/23 15:48:46 [error] 11148#7896: *53 CreateFile() "C:\code\zs\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/07/23 15:49:47 [error] 11148#7896: *56 CreateFile() "C:\code\zs\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/07/23 15:50:22 [error] 11148#7896: *61 CreateFile() "C:\code\zs\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/07/23 15:50:51 [notice] 28624#18500: signal process started
+2024/07/23 15:50:53 [error] 11148#7896: *64 CreateFile() "C:\code\zs\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/07/23 15:51:05 [error] 16464#22916: *1 CreateFile() "C:\code\zs\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:81", referrer: "http://localhost:81/"
+2024/07/23 15:53:18 [notice] 12104#17900: signal process started
+2024/07/23 16:03:37 [error] 11148#7896: *71 CreateFile() "C:\code\zs\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/07/23 16:03:39 [error] 11148#7896: *71 CreateFile() "C:\code\zs\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/07/23 16:03:46 [error] 25992#23740: *1 CreateFile() "C:\code\zs\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:81", referrer: "http://localhost:81/"
+2024/07/23 16:07:54 [error] 13196#6644: *1 CreateFile() "C:\code\zs\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/07/23 16:08:25 [notice] 2272#2912: signal process started
+2024/07/23 16:53:14 [error] 5892#3788: *7 CreateFile() "C:\code\zs\nginx/html/api/list" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /api/list HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/07/23 16:55:31 [error] 5892#3788: *9 CreateFile() "C:\code\zs\nginx/html/api/list" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /api/list HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/07/23 16:56:29 [error] 5892#3788: *11 CreateFile() "C:\code\zs\nginx/html/api/list" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /api/list HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/07/23 16:57:32 [notice] 10328#21176: signal process started
+2024/07/23 16:59:00 [notice] 5920#14612: signal process started
+2024/07/23 17:00:48 [notice] 7152#21360: signal process started
+2024/07/23 17:00:58 [notice] 8908#4400: signal process started
+2024/07/23 17:03:14 [notice] 16432#17376: signal process started
+2024/07/23 17:03:17 [error] 3688#8272: *35 CreateFile() "C:\code\zs\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/07/23 17:03:46 [emerg] 7636#7348: invalid number of arguments in "rewrite" directive in C:\code\zs\nginx/conf/nginx.conf:59
+2024/07/23 17:03:56 [notice] 6280#1944: signal process started
+2024/07/23 17:04:12 [notice] 19108#13072: signal process started
+2024/07/23 17:06:41 [error] 4004#1200: *46 CreateFile() "C:\code\zs\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/07/23 17:09:05 [notice] 2152#13528: signal process started
+2024/07/23 17:11:43 [notice] 11256#8788: signal process started
+2024/07/23 17:11:54 [error] 13064#3580: *58 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /api/list HTTP/1.1", upstream: "http://[::1]:30001/list", host: "localhost", referrer: "http://localhost/"
+2024/07/23 17:11:56 [error] 13064#3580: *58 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /api/list HTTP/1.1", upstream: "http://127.0.0.1:30001/list", host: "localhost", referrer: "http://localhost/"
+2024/07/23 17:12:48 [notice] 17140#11400: signal process started
+2024/07/23 17:12:55 [error] 2676#17824: *63 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /api/list HTTP/1.1", upstream: "http://[::1]:3001/list", host: "localhost", referrer: "http://localhost/"
+2024/07/23 17:12:57 [error] 2676#17824: *63 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /api/list HTTP/1.1", upstream: "http://127.0.0.1:3001/list", host: "localhost", referrer: "http://localhost/"
+2024/07/23 17:13:41 [notice] 9272#12992: signal process started
+2024/07/23 17:13:55 [notice] 8560#7708: signal process started
+2024/07/23 17:14:29 [notice] 10632#2828: signal process started
+2024/07/23 17:17:51 [notice] 13048#4500: signal process started
+2024/07/23 17:18:09 [notice] 11200#9920: signal process started
+2024/07/23 17:18:21 [notice] 5480#6140: signal process started
+2024/07/23 17:18:37 [notice] 7892#17248: signal process started
+2024/07/23 17:18:43 [error] 19988#1360: *81 CreateFile() "C:\code\zs\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/07/23 17:19:01 [notice] 21336#3988: signal process started
+2024/07/23 17:19:09 [error] 2128#14268: *85 CreateFile() "C:\code\zs\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/07/23 17:21:47 [notice] 18572#5772: signal process started
+2024/07/23 17:22:14 [notice] 14700#17716: signal process started
+2024/07/23 17:22:50 [notice] 13224#7304: signal process started
+2024/07/23 17:30:56 [notice] 5072#20748: signal process started
+2024/07/23 17:38:05 [notice] 16840#3840: signal process started
+2024/07/23 17:39:21 [notice] 13796#15804: signal process started
+2024/07/23 17:40:21 [notice] 19960#5052: signal process started
+2024/07/23 17:41:29 [notice] 20056#3868: signal process started
