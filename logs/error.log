@@ -89,3 +89,11 @@
 2024/07/23 17:39:21 [notice] 13796#15804: signal process started
 2024/07/23 17:40:21 [notice] 19960#5052: signal process started
 2024/07/23 17:41:29 [notice] 20056#3868: signal process started
+2024/07/23 17:49:48 [notice] 11176#20952: signal process started
+2024/07/23 17:49:56 [notice] 20568#10544: signal process started
+2024/07/23 17:50:49 [error] 11440#2568: *133 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /api/list HTTP/1.1", upstream: "http://127.0.0.1:3001/list", host: "localhost", referrer: "http://localhost/"
+2024/07/23 17:50:51 [error] 11440#2568: *133 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /api/list HTTP/1.1", upstream: "http://127.0.0.1:3002/list", host: "localhost", referrer: "http://localhost/"
+2024/07/23 17:54:00 [notice] 3376#2820: signal process started
+2024/07/23 17:59:33 [notice] 11996#4392: signal process started
+2024/07/23 18:01:18 [notice] 11404#5440: signal process started
+2024/07/23 18:01:27 [error] 2320#11008: *172 limiting requests, excess: 5.605 by zone "rate_limit", client: 127.0.0.1, server: localhost, request: "GET /api/list HTTP/1.1", host: "localhost", referrer: "http://localhost/"

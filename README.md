@@ -1,4 +1,4 @@
-## nginx
+# nginx
 
 nginx 是一个 web 服务器 可以部署网站 反向代理 集群服务器 网关层  
 Apache  
@@ -20,7 +20,9 @@ node express
 
 ## 负载均衡
 
-> 默认是轮询的方式
+1. 默认是轮询的方式
+2. 权重分配 `weight -s` 数值越大负责越多 `server 127.0.0.1:3000 weight=3;`
+3. 灾备技术 `backup` 目标服务器会作为备用服务器去使用
 
 配置
 
@@ -36,3 +38,8 @@ node express
 ```conf
 用法： proxy_pass http://[负载均衡的地址];
 ```
+
+## 内置变量
+
+都是$开头的，都是内置变量  
+$binary_remote_addr 远程客户端的 ip 地址
