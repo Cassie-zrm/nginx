@@ -97,3 +97,44 @@
 2024/07/23 17:59:33 [notice] 11996#4392: signal process started
 2024/07/23 18:01:18 [notice] 11404#5440: signal process started
 2024/07/23 18:01:27 [error] 2320#11008: *172 limiting requests, excess: 5.605 by zone "rate_limit", client: 127.0.0.1, server: localhost, request: "GET /api/list HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/07/24 10:11:03 [notice] 21996#8772: signal process started
+2024/07/25 10:46:47 [error] 3192#10536: *1 CreateFile() "C:\code\zs\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/07/26 13:59:50 [error] 3192#10536: *10 CreateFile() "C:\code\zs\nginx/html/img.png" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /img.png HTTP/1.1", host: "localhost"
+2024/07/26 14:00:21 [emerg] 20768#3196: unexpected "}" in C:\code\zs\nginx/conf/nginx.conf:73
+2024/07/26 14:00:23 [error] 3192#10536: *14 CreateFile() "C:\code\zs\nginx/html/img.png" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /img.png HTTP/1.1", host: "localhost"
+2024/07/26 14:00:24 [error] 3192#10536: *15 CreateFile() "C:\code\zs\nginx/html/img.png" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /img.png HTTP/1.1", host: "localhost"
+2024/07/26 14:00:25 [error] 3192#10536: *15 CreateFile() "C:\code\zs\nginx/html/img.png" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /img.png HTTP/1.1", host: "localhost"
+2024/07/26 14:00:25 [error] 3192#10536: *15 CreateFile() "C:\code\zs\nginx/html/img.png" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /img.png HTTP/1.1", host: "localhost"
+2024/07/26 14:01:01 [error] 3192#10536: *17 CreateFile() "C:\code\zs\nginx/html/img.png" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /img.png HTTP/1.1", host: "localhost"
+2024/07/26 14:01:02 [error] 3192#10536: *17 CreateFile() "C:\code\zs\nginx/html/img.png" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /img.png HTTP/1.1", host: "localhost"
+2024/07/26 14:01:02 [error] 3192#10536: *17 CreateFile() "C:\code\zs\nginx/html/img.png" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /img.png HTTP/1.1", host: "localhost"
+2024/07/26 14:01:02 [error] 3192#10536: *17 CreateFile() "C:\code\zs\nginx/html/img.png" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /img.png HTTP/1.1", host: "localhost"
+2024/07/26 14:01:03 [error] 3192#10536: *17 CreateFile() "C:\code\zs\nginx/html/img.png" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /img.png HTTP/1.1", host: "localhost"
+2024/07/26 14:01:03 [error] 3192#10536: *17 CreateFile() "C:\code\zs\nginx/html/img.png" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /img.png HTTP/1.1", host: "localhost"
+2024/07/26 14:01:31 [emerg] 11480#2784: unexpected "}" in C:\code\zs\nginx/conf/nginx.conf:73
+2024/07/26 14:01:34 [error] 3192#10536: *20 CreateFile() "C:\code\zs\nginx/html/img.png" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /img.png HTTP/1.1", host: "localhost"
+2024/07/26 14:01:34 [error] 3192#10536: *20 CreateFile() "C:\code\zs\nginx/html/img.png" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /img.png HTTP/1.1", host: "localhost"
+2024/07/26 14:01:35 [error] 3192#10536: *20 CreateFile() "C:\code\zs\nginx/html/img.png" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /img.png HTTP/1.1", host: "localhost"
+2024/07/26 14:01:35 [error] 3192#10536: *20 CreateFile() "C:\code\zs\nginx/html/img.png" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /img.png HTTP/1.1", host: "localhost"
+2024/07/26 14:01:36 [error] 3192#10536: *20 CreateFile() "C:\code\zs\nginx/html/img.png" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /img.png HTTP/1.1", host: "localhost"
+2024/07/26 14:02:46 [emerg] 21196#11372: unexpected "}" in C:\code\zs\nginx/conf/nginx.conf:73
+2024/07/26 14:03:11 [notice] 14468#22076: signal process started
+2024/07/26 14:03:14 [error] 16304#21708: *32 CreateFile() "C:\code\zs\nginx/html/static/static/img.png" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/img.png HTTP/1.1", host: "localhost"
+2024/07/26 14:03:14 [error] 16304#21708: *32 CreateFile() "C:\code\zs\nginx/html/static/static/img.png" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/img.png HTTP/1.1", host: "localhost"
+2024/07/26 14:03:14 [error] 16304#21708: *32 CreateFile() "C:\code\zs\nginx/html/static/static/img.png" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/img.png HTTP/1.1", host: "localhost"
+2024/07/26 14:03:15 [error] 16304#21708: *32 CreateFile() "C:\code\zs\nginx/html/static/static/img.png" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/img.png HTTP/1.1", host: "localhost"
+2024/07/26 14:03:15 [error] 16304#21708: *32 CreateFile() "C:\code\zs\nginx/html/static/static/img.png" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/img.png HTTP/1.1", host: "localhost"
+2024/07/26 14:13:00 [emerg] 21260#17276: unknown directive "if($invalid_referer)" in C:\code\zs\nginx/conf/nginx.conf:74
+2024/07/26 14:13:33 [emerg] 6964#17760: unexpected "}" in C:\code\zs\nginx/conf/nginx.conf:76
+2024/07/26 14:14:13 [notice] 26800#14260: signal process started
+2024/07/26 14:14:26 [error] 6164#19396: *43 CreateFile() "C:\code\zs\nginx/html/static/static/img.png" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/img.png HTTP/1.1", host: "localhost"
+2024/07/26 14:35:56 [notice] 19368#25440: signal process started
+2024/07/26 14:38:03 [emerg] 15944#26512: invalid condition "!$invalid_referer" in C:\code\zs\nginx/conf/nginx.conf:74
+2024/07/26 14:38:26 [notice] 26872#2376: signal process started
+2024/07/26 16:04:34 [notice] 22912#22372: signal process started
+2024/07/26 16:05:22 [error] 26396#19772: *85 CreateFile() "C:\code\zs\nginx/html/img.png" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /img.png HTTP/1.1", host: "localhost", referrer: "https://localhost/"
+2024/07/26 16:05:23 [error] 26396#19772: *85 CreateFile() "C:\code\zs\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "https://localhost/"
+2024/07/26 16:05:59 [notice] 22412#25720: signal process started
+2024/07/26 16:19:16 [emerg] 16672#21944: invalid time value "1day" in C:\code\zs\nginx/conf/nginx.conf:79
+2024/07/26 16:20:09 [emerg] 17236#17840: unknown "url" variable
+2024/07/26 16:20:45 [notice] 6572#25712: signal process started
